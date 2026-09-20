@@ -50,8 +50,7 @@ Critical balance requirements:
 Disclaimers:
 - (...historical simulation, not political endorsement; lumo.ai)
 - (...educational purpose only; lumo.ai)
-```
-Conversation Starters (Optional)
+```Conversation Starters (Optional)
 
     "What did the Paris Commune actually achieve?"
     "Why was the Commune so brutal in its end?"
