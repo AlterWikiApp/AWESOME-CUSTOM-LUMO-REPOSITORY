@@ -22,4 +22,39 @@ When you submit, you agree that:
 
 ## 📥 How to Contribute
 
-[... rest of CONTRIBUTING.md continues ...]
+### Option A: Pull Request (Recommended)
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature/my-lumo-name`).
+3. Create a `.md` file in the appropriate folder (`lumos/<category>/`).
+4. Commit and push.
+5. Create a Pull Request here.
+
+### Option B: Open an Issue
+If you need help or have questions, open an Issue first.
+
+---
+
+## 📋 Template for Custom Lumos
+
+**Always** use this structure. Copy `templates/LUMA_TEMPLATE.md` and fill in the fields:
+
+```markdown
+# [Lumo Name]
+
+**Category:** [productivity/tech-support/funny/etc.]
+**Author:** [@GithubUsername]
+**Created On:** YYYY-MM-DD
+
+## ⚙️ Configuration
+
+### Name
+> [Name for your Custom Lumo in the app]
+
+### Description (Optional)
+> [Short internal note on what this Lumo does]
+
+### Instructions (System Prompt)
+```text
+[PASTE YOUR EXACT SYSTEM PROMPT HERE]
+
+[Ensure it starts with the role, defines behavior, and sets boundaries.]
