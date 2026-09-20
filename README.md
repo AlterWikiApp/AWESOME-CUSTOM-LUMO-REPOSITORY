@@ -73,7 +73,7 @@ Read the [Contributing Guidelines](./CONTRIBUTING.md) before submitting.
 | Total Lumos | `[X]` |
 | Active Maintainers | 1 |
 | Review Cycle | Daily (Manual) |
-| Repository Created | `[Date]` |
+| Repository Created | `20.09.26` |
 
 *Note: These numbers will be updated manually during review cycles.*
 
@@ -101,7 +101,7 @@ This repository exists because of you – thank you for being part of it!
 
 ---
 
-**Last Updated:** `[Date]`
+**Last Updated:** `20.09.26`
 
 ---
 
