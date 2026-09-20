@@ -1,0 +1,20 @@
+awesome-custom-lumos/
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── CATEGORIES.md
+├── PERSONALIZATION.md
+├── DISCLAIMER_TEMPLATES.md
+├── .github/
+│   └── PULL_REQUEST_TEMPLATE.md
+├── templates/
+│   └── LUMA_TEMPLATE.md
+└── lumos/
+    ├── productivity/
+    ├── tech-support/
+    ├── funny/
+    ├── empathetic/
+    ├── creative/
+    ├── learning/
+    ├── roleplay/
+    └── open/
